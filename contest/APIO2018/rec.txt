@@ -1,0 +1,20 @@
+pA 
+n stores, k types, each store(l, t, a, b)
+q queries, each answer the max(min(dis(t, l))) on a certain year
+sb1, (sb2) : brute force O(q(n + k))
+sb3 : all stores are always open, go from left to right, 
+	record {max dis, type}, t same => get min, else get max
+
+pB
+given n circles on an infinite plane, remove them and those intersected with it
+by the order of size, determine who removed each circle
+sb1 : just implementation (7 pts)
+vis, x, y, r => two for loops => done
+sb2 : use a map to place lb, rb of circle
+multimap<int, int> {coor, id}
+pC 
+count the number of triplets, such that there exsists a path
+from A to C and passes B
+do the tree case first (23 pts)
+sz(x), dp(x), ans(x)
+
