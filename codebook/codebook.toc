@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Basic}{1}%
+\contentsline {subsection}{\numberline {1.1}Default code}{1}%
+\contentsline {subsection}{\numberline {1.2}FasterIO}{1}%
+\contentsline {subsection}{\numberline {1.3}Check}{1}%
+\contentsline {section}{\numberline {2}Data Structure}{2}%
+\contentsline {subsection}{\numberline {2.1}Disjoint set -- Path Compression}{2}%
+\contentsline {subsection}{\numberline {2.2}Disjoint set -- Undo}{2}%
+\contentsline {subsection}{\numberline {2.3}Sparse Table}{2}%
+\contentsline {subsection}{\numberline {2.4}Persistent Segment Tree}{2}%
+\contentsline {subsection}{\numberline {2.5}Li Chao Tree}{3}%
+\contentsline {subsection}{\numberline {2.6}Treap}{3}%
+\contentsline {section}{\numberline {3}Graph}{4}%
+\contentsline {subsection}{\numberline {3.1}D and L}{4}%
+\contentsline {subsection}{\numberline {3.2}Articulation Point}{4}%
+\contentsline {subsection}{\numberline {3.3}Bridge}{4}%
+\contentsline {subsection}{\numberline {3.4}Biconnected Component}{4}%
+\contentsline {subsection}{\numberline {3.5}Strongly Connected Component}{5}%
+\contentsline {subsection}{\numberline {3.6}Cactus}{5}%
+\contentsline {subsection}{\numberline {3.7}Block-Cut Tree}{5}%
+\contentsline {subsection}{\numberline {3.8}Centroid Decomposition}{5}%
+\contentsline {subsection}{\numberline {3.9}Dinic}{6}%
+\contentsline {subsection}{\numberline {3.10}Eular}{6}%
+\contentsline {subsection}{\numberline {3.11}Heavy-Light Decomposition}{7}%
+\contentsline {subsection}{\numberline {3.12}Hungary}{7}%
+\contentsline {subsection}{\numberline {3.13}Jellyfish}{7}%
+\contentsline {subsection}{\numberline {3.14}KM algo}{8}%
+\contentsline {subsection}{\numberline {3.15}Prim}{8}%
+\contentsline {subsection}{\numberline {3.16}Smallest Mean Cycle}{9}%
+\contentsline {section}{\numberline {4}Math}{9}%
+\contentsline {subsection}{\numberline {4.1}FFT and NTT}{9}%
+\contentsline {subsection}{\numberline {4.2}Chinese Remainder Theorum}{9}%
+\contentsline {subsection}{\numberline {4.3}Discrete Log}{9}%
+\contentsline {subsection}{\numberline {4.4}EXgcd}{10}%
+\contentsline {subsection}{\numberline {4.5}Gauss Elimination}{10}%
+\contentsline {subsection}{\numberline {4.6}Linear Basis}{10}%
+\contentsline {subsection}{\numberline {4.7}Miller Rabin}{10}%
+\contentsline {subsection}{\numberline {4.8}Mobius Transform}{11}%
+\contentsline {section}{\numberline {5}String}{11}%
+\contentsline {section}{\numberline {6}Geometry}{11}%
+\contentsline {section}{\numberline {7}Others}{11}%
